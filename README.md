@@ -36,4 +36,4 @@
   </a> 
 </div>
 
-  ![Snake animation](https://github.com/adao-oliveira/adao-oliveira/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/adao-oliveira/adao-oliveira/blob/output/github-contribution-grid-snake.svg)
